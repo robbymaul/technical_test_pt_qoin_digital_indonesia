@@ -37,12 +37,12 @@ Pemain = 3, Dadu = 3
 
 ```permainan akan berjalan dan menentukan pemenangnya```
 
-> Giliran 1 lempar dadu:
+Giliran 1 lempar dadu:
 Pemain #1 (0): 1, 6, 1
 Pemain #2 (0): 6, 4, 5
 Pemain #3 (0): 1, 5, 3
 
-> Setelah evaluasi:
+Setelah evaluasi:
 Pemain #1 (1): 1
 Pemain #2 (1): 1, 1, 4, 5
 Pemain #3 (0): 5, 3
