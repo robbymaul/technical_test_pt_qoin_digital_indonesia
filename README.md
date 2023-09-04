@@ -37,124 +37,124 @@ Pemain = 3, Dadu = 3
 
 ```permainan akan berjalan dan menentukan pemenangnya```
 
-Giliran 1 lempar dadu:
-Pemain #1 (0): 1, 6, 1
-Pemain #2 (0): 6, 4, 5
-Pemain #3 (0): 1, 5, 3
+Giliran 1 lempar dadu: <br />
+Pemain #1 (0): 1, 6, 1 <br />
+Pemain #2 (0): 6, 4, 5 <br />
+Pemain #3 (0): 1, 5,  <br />
+
+Setelah evaluasi: <br />
+Pemain #1 (1): 1 <br />
+Pemain #2 (1): 1, 1, 4, 5 <br />
+Pemain #3 (0): 5, 3 <br />
+
+Giliran 2 lempar dadu: <br />
+Pemain #1 (1): 5 <br />
+Pemain #2 (1): 6, 1, 6, 6 <br />
+Pemain #3 (0): 1, 1 <br />
 
 Setelah evaluasi:
-Pemain #1 (1): 1
-Pemain #2 (1): 1, 1, 4, 5
-Pemain #3 (0): 5, 3
+Pemain #1 (1): 5, 1, 1 <br />
+Pemain #2 (4): <br />
+Pemain #3 (0): 1 <br />
 
-Giliran 2 lempar dadu:
-Pemain #1 (1): 5
-Pemain #2 (1): 6, 1, 6, 6
-Pemain #3 (0): 1, 1
+Giliran 3 lempar dadu: <br />
+Pemain #1 (1): 2, 1, 1 <br />
+Pemain #2 (4): <br />
+Pemain #3 (0): 2 <br />
 
-Setelah evaluasi:
-Pemain #1 (1): 5, 1, 1
-Pemain #2 (4):
-Pemain #3 (0): 1
+Setelah evaluasi: <br />
+Pemain #1 (1): 2 <br />
+Pemain #2 (4): 1, 1 <br />
+Pemain #3 (0): 2 <br />
 
-Giliran 3 lempar dadu:
-Pemain #1 (1): 2, 1, 1
-Pemain #2 (4):
-Pemain #3 (0): 2
+Giliran 4 lempar dadu: <br />
+Pemain #1 (1): 5 <br />
+Pemain #2 (4): 3, 5 <br />
+Pemain #3 (0): 6 <br />
 
-Setelah evaluasi:
-Pemain #1 (1): 2
-Pemain #2 (4): 1, 1
-Pemain #3 (0): 2
+Setelah evaluasi: <br />
+Pemain #1 (1): 5 <br />
+Pemain #2 (4): 3, 5 <br />
+Pemain #3 (1): <br />
 
-Giliran 4 lempar dadu:
-Pemain #1 (1): 5
-Pemain #2 (4): 3, 5
-Pemain #3 (0): 6
-
-Setelah evaluasi:
-Pemain #1 (1): 5
-Pemain #2 (4): 3, 5
-Pemain #3 (1):
-
-Giliran 5 lempar dadu:
-Pemain #1 (1): 3
-Pemain #2 (4): 2, 5
-Pemain #3 (1):
+Giliran 5 lempar dadu: <br />
+Pemain #1 (1): 3 <br />
+Pemain #2 (4): 2, 5 <br />
+Pemain #3 (1): <br />
 
 Setelah evaluasi:
-Pemain #1 (1): 3
-Pemain #2 (4): 2, 5
-Pemain #3 (1):
+Pemain #1 (1): 3 <br />
+Pemain #2 (4): 2, 5 <br />
+Pemain #3 (1): <br />
 
-Giliran 6 lempar dadu:
-Pemain #1 (1): 3
-Pemain #2 (4): 3, 2
-Pemain #3 (1):
+Giliran 6 lempar dadu: <br />
+Pemain #1 (1): 3 <br />
+Pemain #2 (4): 3, 2 <br />
+Pemain #3 (1): <br />
 
-Setelah evaluasi:
-Pemain #1 (1): 3
-Pemain #2 (4): 3, 2
-Pemain #3 (1):
+Setelah evaluasi: <br />
+Pemain #1 (1): 3 <br />
+Pemain #2 (4): 3, 2 <br />
+Pemain #3 (1): <br />
 
-Giliran 7 lempar dadu:
-Pemain #1 (1): 4
-Pemain #2 (4): 3, 5
-Pemain #3 (1):
+Giliran 7 lempar dadu: <br />
+Pemain #1 (1): 4 <br />
+Pemain #2 (4): 3, 5 <br />
+Pemain #3 (1): <br />
 
-Setelah evaluasi:
-Pemain #1 (1): 4
-Pemain #2 (4): 3, 5
-Pemain #3 (1):
+Setelah evaluasi: <br />
+Pemain #1 (1): 4 <br />
+Pemain #2 (4): 3, 5 <br />
+Pemain #3 (1): <br />
 
-Giliran 8 lempar dadu:
-Pemain #1 (1): 5
-Pemain #2 (4): 2, 1
-Pemain #3 (1):
+Giliran 8 lempar dadu: <br />
+Pemain #1 (1): 5 <br />
+Pemain #2 (4): 2, 1 <br />
+Pemain #3 (1): <br />
 
-Setelah evaluasi:
-Pemain #1 (1): 5
-Pemain #2 (4): 2
-Pemain #3 (1): 1
+Setelah evaluasi: <br />
+Pemain #1 (1): 5 <br />
+Pemain #2 (4): 2 <br />
+Pemain #3 (1): 1 <br />
 
-Giliran 9 lempar dadu:
-Pemain #1 (1): 6
-Pemain #2 (4): 5
-Pemain #3 (1): 1
+Giliran 9 lempar dadu: <br />
+Pemain #1 (1): 6 <br />
+Pemain #2 (4): 5 <br />
+Pemain #3 (1): 1 <br />
 
-Setelah evaluasi:
-Pemain #1 (2): 1
-Pemain #2 (4): 5
-Pemain #3 (1):
+Setelah evaluasi: <br />
+Pemain #1 (2): 1 <br />
+Pemain #2 (4): 5 <br />
+Pemain #3 (1): <br />
 
-Giliran 10 lempar dadu:
-Pemain #1 (2): 5
-Pemain #2 (4): 2
-Pemain #3 (1):
-
-Setelah evaluasi:
-Pemain #1 (2): 5
-Pemain #2 (4): 2
-Pemain #3 (1):
-
-Giliran 11 lempar dadu:
-Pemain #1 (2): 3
-Pemain #2 (4): 5
-Pemain #3 (1):
+Giliran 10 lempar dadu: <br />
+Pemain #1 (2): 5 <br />
+Pemain #2 (4): 2 <br />
+Pemain #3 (1): <br />
 
 Setelah evaluasi:
-Pemain #1 (2): 3
-Pemain #2 (4): 5
-Pemain #3 (1):
+Pemain #1 (2): 5 <br />
+Pemain #2 (4): 2 <br />
+Pemain #3 (1): <br />
 
-Giliran 12 lempar dadu:
-Pemain #1 (2): 1
-Pemain #2 (4): 6
-Pemain #3 (1):
+Giliran 11 lempar dadu <br />
+Pemain #1 (2): 3 <br />
+Pemain #2 (4): 5 <br />
+Pemain #3 (1): <br />
 
 Setelah evaluasi:
-Pemain #1 (2):
-Pemain #2 (5): 1
-Pemain #3 (1):
+Pemain #1 (2): 3 <br />
+Pemain #2 (4): 5 <br />
+Pemain #3 (1): <br />
+
+Giliran 12 lempar dadu: <br />
+Pemain #1 (2): 1 <br />
+Pemain #2 (4): 6 <br />
+Pemain #3 (1): <br />
+
+Setelah evaluasi: <br />
+Pemain #1 (2): <br />
+Pemain #2 (5): 1 <br />
+Pemain #3 (1): <br />
 
 > Game dimenangkan oleh pemain 2 karena memiliki poin lebih banyak dari pemain lainnya
